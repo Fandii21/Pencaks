@@ -1,0 +1,735 @@
+h3 {
+  font-family: Bevan;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 15.4px;
+}
+p {
+  font-family: Bevan;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+blockquote {
+  font-family: Bevan;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+pre {
+  font-family: Bevan;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
+}
+
+.html-body {
+  margin: 0px;
+  padding: -2px;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+
+.container {
+  border: #ffffff;
+}
+.navbaratas {
+  background-color: #955430;
+}
+
+.pecaks {
+  margin-top: -60px;
+  margin-right: 210px;
+}
+.margin {
+  margin-top: 80px;
+}
+.welcome {
+  margin-left: 0px;
+  font-size: 60px;
+  font-family: Dancing Script;
+  color: #955430;
+}
+
+.aithernals-welcome {
+  margin-left: 0px;
+  margin-top: -20px;
+  font-size: 30px;
+  font-family: Dancing Script;
+  color: #955430;
+}
+.top {
+  margin-top: 20px;
+}
+
+.line {
+  border: white;
+}
+.title {
+  /* padding: 120px; */
+  margin-top: -10px;
+  margin-bottom: -20px;
+  font-size: 130px;
+  font-family: Bevan;
+  /* font-style:italic; */
+  /* text-decoration: underline; */
+}
+/* index-images */
+section{
+ margin: 0 auto;
+ margin-top: -30px;
+ width: 460px;
+ border: 1px #999 solid;
+ padding: 50px;
+ border-radius: 35px;
+ background-color: #dfcdc3;
+ box-sizing: #222 0.2em 0.3em 8em 0.1em;
+}
+
+.message{
+  font-size: 24px;
+  margin-top: -50px;
+  font-weight: bold;
+  text-align: center;
+  color: #955430;
+  padding-bottom: 12px;
+  min-height: 5vh;
+}
+#fileInput{
+  margin-left: 70px;
+}
+#imagi{
+  margin-left: 20px;
+}
+.btnUpload{
+  margin-left: 35px;
+  margin-top: 20px;
+}
+.picture{
+  display: block;
+  width: 320px;
+  height: auto;
+  margin: 0;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  border-radius: 20px;
+}
+
+button{
+  /* display: none; */
+  margin: 0 auto;
+  margin-bottom: -2000px;
+  background-color: rgb(216, 144, 28);
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  width: 300px;
+  height: 40px;
+  /* border: none; */
+  border-radius: 18px;
+}
+#back-result{
+
+  font-size: 22px;
+  font-weight: bold;
+  justify-self: center;
+  text-align: center;
+  color: chocolate;
+}
+
+.desc {
+  margin-top: 0;
+  font-size: 70;
+  margin-bottom: 60px;
+  font-style: italic;
+  color: #955430;
+}
+
+.aithernals-desc {
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 25px;
+  margin-bottom: 60px;
+  color: #955430;
+  
+  
+}
+.carousel-indicators,
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+  filter: invert(100%);
+}
+
+.nav-item {
+  margin-top: 20px;
+  margin-right: 40px;
+}
+.navbar-brand {
+  font-size: 90px;
+  font-weight: 800;
+}
+
+.navbar-bot {
+  margin-bottom: 140px;
+}
+
+.background {
+  background-color: #000000;
+}
+
+.aithern-index {
+  margin-left: 40px;
+  margin-top: 30px;
+  line-height: 60px;
+  font-family: fjalla one;
+  font-size: 50px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.aithernals {
+  margin-left: 80px;
+  margin-top: -10px;
+  font-family: fjalla one;
+  font-size: 55px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.margin-sejarah {
+  margin-top: 0px;
+  height: 1350px;
+  width: 100%;
+  align-items: center;
+}
+
+
+/* AiThernals */
+
+/* .aithernals-block-2 img{
+  height: 400px;
+  width: auto;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.aithernals-block-3 img{
+  height: 400px;
+  width: auto;
+  background-color: #45a458;
+  
+} */
+.all-block img{
+  margin-top: 0px;
+  margin-left: 40px;
+  height: 400px;
+  width: auto;
+}
+.team img{
+  margin-top: -40px;
+height: 200px;
+width: 200px;
+}
+.aithernals-index {
+  margin-left: 30px;
+  margin-top: -50px;
+  line-height: 60px;
+  font-family: Bevan;
+  font-size: 35px;
+  text-decoration: none;
+  color: #ffb227;
+}
+.margin-waktu {
+  margin-top: 0px;
+  height: auto;
+  width: 100%;
+  align-items: center;
+}
+.title-aithernals {
+  /* padding: 120px; */
+  margin-top: -130px;
+  margin-bottom: 0px;
+  font-size: 100px;
+  font-family: fjalla one;
+
+  /* font-style:italic; */
+  /* text-decoration: underline; */
+}
+.block-index {
+  margin-top: -10px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.aithernals-block {
+  margin: 0px 50px 0px 50px;
+  height: 0px;
+  width: 0px;
+  /* align-items: center;
+  justify-content: center; */
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.aithern {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-right: 0px;
+  font-weight: bold;
+  color: lightgray;
+}
+.block-sejarah {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-right: 100px;
+  /* {% comment %} align-items: center;
+  justify-content: center; {% endcomment %}
+  {% comment %} display: flex; {% endcomment %} */
+}
+
+.block-waktu {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-right: 100px;
+}
+
+.block-image {
+  margin-right: 40px;
+}
+
+.beranda {
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 70px;
+  margin-top: -13px;
+  color: #a87c54;
+}
+
+.teks {
+  margin-top: 30px;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  font-family: bevan;
+  color: #ffb227;
+}
+
+.teks-h3 {
+  margin: 30px 140px 0px 140px;
+  font-size: 25px;
+  font-family: bevan;
+  font-weight: bold;
+  line-height: 38px;
+  text-align: justify;
+  color: #ffc422;
+}
+.paragraf-1 {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 40px;
+  margin: 30px 140px 0 140px;
+  font-family: bevan;
+  text-align: justify;
+  color: #cc9a10c9;
+}
+.paragraf {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+  margin: 30px 170px 0 170px;
+  font-family: bevan;
+  text-align: justify;
+  color: #cc9a10d2;
+}
+
+/* about.html */
+.about-btn {
+  margin: auto;
+  margin-top: 0px;
+  height: auto;
+  width: 90%;
+  /* background-color: #a28964; */
+}
+
+.about-h1 {
+  font-size: 80px;
+  font-family: bevan;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  color: #ffb227;
+}
+.about-paragraf {
+  font-size: 38px;
+  line-height: 40px;
+  margin: 30px 80px 0 80px;
+  font-family: bevan;
+  text-align: justify;
+  color: #e58f16;
+}
+
+
+
+/* deteksi */
+.h1-deteksi {
+  position: absolute;
+  width: 800px;
+  height: 100px;
+  left: 70px;
+  top: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 141px;
+  /* identical to box height */
+  letter-spacing: -0.05em;
+  color: #ffffff;
+}
+
+
+
+footer {
+    position: fixed;
+    left: 810px;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    position: center;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+#margin-deteksi{
+     /* width: 7030px;
+    height: 120px; 
+    margin-top: 0px; 
+     text-align: center;
+    align-content: center;  */
+   background-color: #a87c54;
+}
+.timer-deteksi{
+  font-size: 100px;
+  margin-top: 240px;
+  margin-left: 1130px;
+  color: #ffb227;
+  
+}
+.p-deteksi{
+  font-size: 40px; 
+  margin-left: 1080px;
+  color: #3fad3d;
+  
+}
+.child {
+    margin-left: 1080px;
+    margin-top: 70px;
+    color: #bf8821;
+}
+
+
+#poseImg {
+        width: 300px;
+        height: 330px;
+        position: absolute;
+        top: 350px;
+        left: 1100px;
+}
+
+/* colom-deteksi-gambar */
+
+.colom-deteksi{
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+color: whitesmoke;
+}
+
+#deteksi-gambar{
+  font-size: 40px;
+  margin-top: -50px;
+  color: #bf8821;
+}
+#choose-file{
+  margin-top: 220px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  /* index */
+
+  .welcome {
+    font-size: 25px;
+    margin-top: 40px;
+  }
+  .aithern-index {
+    margin: 0px 0px 0px 0px;
+    font-size: 25px;
+  }
+  .title {
+    font-size: 40px;
+  }
+  #orangpecak {
+    width: 38%;
+    margin-right: 0px;
+  }
+  .desc {
+    font-size: 22px;
+    margin-top: -4px;
+    margin-bottom: 20px;
+  }
+
+  .btn-index img {
+    margin-bottom: 40px;
+    width: 100%;
+    height: auto;
+  }
+  .btn-aithern img {
+    width: 100px;
+    height: 20px;
+  }
+  .block-index {
+    gap: 30px;
+    margin-top: 40px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .aithern {
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .navbar-bot {
+    margin-bottom: 0;
+  }
+
+  /* sejarah */
+
+  .aithernals {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+
+  .block-sejarah {
+    margin-top:0px;
+    margin-bottom: -20px;
+    margin-left:10px;
+    gap: 10px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .beranda {
+    margin-left: 37px;
+    margin-top: -5px;
+    font-size: 15px;
+  }
+  .about {
+    width: 20%;
+    height: 20%;
+  }
+  .margin-sejarah {
+    margin: auto;
+    height: auto;
+    width: 99%;
+  }
+  .teks {
+    margin-top: 30px;
+    font-size: 23px;
+    font-family: bevan;
+    font-weight: bold;
+    justify-content: center;
+    color: #b9b728;
+  }
+
+  .teks-h3 {
+    margin: 10px 50px 0px 50px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: justify;
+  }
+  .paragraf-1 {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0px 50px 0px 50px;
+    font-family: bevan;
+    text-align: justify;
+  }
+  .paragraf {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0px 50px 0px 50px;
+    font-family: bevan;
+    text-align: justify;
+  }
+  /* about.html */
+  .about-btn {
+    margin-top: -50px;
+  }
+
+  .about-h1 {
+    text-align: center;
+    font-size: 32px;
+  }
+  .about-paragraf {
+    text-align: justify;
+    font-size: 20px;
+    line-height: 26px;
+    margin: 0px 0px 0px 0px;
+  }
+
+
+  /* waktu sehat  */
+
+  .block-waktu {
+    margin-top:0px;
+    margin-left:10px;
+    margin-bottom: -20px;
+    margin-left:10px;
+    gap: 10px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /* gerakan silat */
+
+
+  /* about aithernals */
+  
+  .our-team{
+  
+    margin-top: -110px;
+    margin-left:0px;
+    height: auto;
+    width: 100px;
+  }
+  
+  .title-aithernals {
+    /* padding: 120px; */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-family: fjalla one;
+  
+    /* font-style:italic; */
+    /* text-decoration: underline; */
+  }
+  
+  .aithernals-welcome {
+    margin-left: 0px;
+    margin-top: -10px;
+    font-size: 20px;
+    font-family: Dancing Script;
+    color: #955430;
+  }
+
+
+  
+  .aithernals-desc {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 10px;
+    text-align: justify;
+    color: #955430; 
+  }
+
+  .aithernals-index {
+    margin-left: 10px;
+    margin-top: 0px;
+    
+    font-family: Bevan;
+    font-size: 18px;
+    color: #ffb227;
+  }
+
+  #btn-aithern-1{
+  margin: -50px 30px 0px 30px;
+}
+  .aithernals-block-1 img{
+    margin: 0px -20px 0px 0px;
+    height: auto;
+    width: 160px;
+    /* align-items: center;
+    justify-content: center; */
+    
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+
+  #btn-aithern-2{
+    margin: 0px 30px 0px 30px;
+  }
+  .aithernals-block-2 img{
+    margin: 0px -20px 0px 0px;
+    height: auto;
+    width: 160px;
+    /* align-items: center;
+    justify-content: center; */
+    
+    grid-template-columns: repeat(2, 1fr);
+
+  }
+
+  #btn-aithern-3{
+    margin: 0px 100px 0px 100px;
+  }
+  .aithernals-block-3 img{
+    margin: 0px 0px 0px 0px;
+    height: auto;
+    width: 160px;
+    /* align-items: center;
+    justify-content: center; */
+    
+    grid-template-columns: repeat(2, 1fr);
+    
+  }
+  
+  section{
+    margin: 40px 40px 20px 40px;
+    width: 300px;
+    height: 500px;
+  }
+
+  .message{
+    font-size: 23px;
+    font-weight: bold;
+    font-weight: 20px;
+    margin: -40px -40px 0px -40px;
+  }
+  #fileInput{
+    margin-left: -30px;
+    margin-top: -200px;
+    
+  }
+  #imagi{
+    margin-left: -50px;
+    margin-top: -20px;
+    width: 240px;
+    height: auto;
+  }
+  .btnUpload{
+    margin-left: -20px;
+    margin-top: -20px;
+    width: 180px;
+    height: auto;
+  }
+}
