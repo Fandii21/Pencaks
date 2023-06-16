@@ -4,3 +4,8 @@ numpy==1.22.4
 opencv_python==4.6.0.66
 pandas==1.4.2
 scikit_learn==1.2.2
+click==8.0
+gunicorn==20.0.4
+Jinja2==3.0
+MarkupSafe==2.0.0rc2
+Werkzeug==2.0
