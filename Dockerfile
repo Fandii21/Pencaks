@@ -20,4 +20,4 @@ COPY . /app
 RUN PYTHONPATH=/usr/bin/python pip install -r requirements.txt
 
 # Set the command to run your application
-CMD [ "python", "app.py" ]
+CMD [ "python", "main.py" ]
